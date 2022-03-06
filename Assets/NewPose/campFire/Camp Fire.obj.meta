@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: ae1fd3ba52e61054490561a3c6cecbf7
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCylinder6_polySurface19Mat
+    second: {fileID: 2100000, guid: c5f3433ce1556184f91bdb0c314cdb9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane1Mat
+    second: {fileID: 2100000, guid: a537f78f919d6dd41a3ce3e41324ff71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane2Mat
+    second: {fileID: 2100000, guid: d514251ccf8cbb1439bdc618017e1e38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface21_pCylinder6Mat
+    second: {fileID: 2100000, guid: 249cf5939578bc74fb2d49a5589294a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface39_polySurface5Mat
+    second: {fileID: 2100000, guid: 3f7aeac2c74d613429be6177f5822b69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface5_polySurface22Mat
+    second: {fileID: 2100000, guid: 5af3ca8ed6a0b834394ea525f36b60e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface5_polySurface23Mat
+    second: {fileID: 2100000, guid: 462a313a6cf67c74aa695049d49d33eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface5_polySurface24Mat
+    second: {fileID: 2100000, guid: 6eac397eaa0e4b34b9a58995f04e85db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface5_polySurface25Mat
+    second: {fileID: 2100000, guid: aaf18a8e9c02f3a4b88a91f41e3dc76d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface5_polySurface26Mat
+    second: {fileID: 2100000, guid: bdbf67424423560489243fc0abf78e6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface5_polySurface27Mat
+    second: {fileID: 2100000, guid: c5d1a24ad85ba8d4f9d442c2970566e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface5_polySurface28Mat
+    second: {fileID: 2100000, guid: 00821d301be52f94aaad0ce8e8160a37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface5_polySurface29Mat
+    second: {fileID: 2100000, guid: 4cce5ab76fd09b34ebd273036dc8c7cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface5_polySurface30Mat
+    second: {fileID: 2100000, guid: b549b76934573d747b3400f3590bca96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface5_polySurface31Mat
+    second: {fileID: 2100000, guid: 6bf1a5328ba3aac42903ab89b56029c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface5_polySurface32Mat
+    second: {fileID: 2100000, guid: a18a10619818807499c55738911640d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface5_polySurface33Mat
+    second: {fileID: 2100000, guid: eedeff3863251b744878613ffca8eb82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface5_polySurface34Mat
+    second: {fileID: 2100000, guid: 3705ea548d8edb74396f00474f7e47fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface5_polySurface35Mat
+    second: {fileID: 2100000, guid: 4d6d521685e98e94f8879339f0507545, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface5_polySurface36Mat
+    second: {fileID: 2100000, guid: 1d0a22c232bafd745a7b4437f9743fad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface5_polySurface37Mat
+    second: {fileID: 2100000, guid: a983ad4814afeff4f91bece43bbe6940, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface5_polySurface38Mat
+    second: {fileID: 2100000, guid: ff1f26ea1fec67b4d92fff752bd81064, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface5_polySurface40Mat
+    second: {fileID: 2100000, guid: aee45a3fd3459f94b87a9fc64fa398b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface5_polySurface41Mat
+    second: {fileID: 2100000, guid: 9cf4b3671e8c0f84e95b38b0e55f608c, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
